@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adê</h1>
 <h3 align="center">A passionate front-end and Game developer</h3>
 
-- 🌱 I’m currently learning **Game development with and a few more things like: JavaScript, HTML, CSS, Construct, Python, Unity, design and draw.**
+- I’m currently learning **Game development with and a few more things like: JavaScript, HTML, CSS, Construct, Python, Unity, design and draw.**
 
 - 📫 How to reach me **ade.lourencojr@gmail.com**
 
