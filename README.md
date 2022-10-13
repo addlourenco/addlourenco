@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adê</h1>
 <h3 align="center">Game developer and Artist</h3>
 
-- I’m currently working with **Game development using Python and the library Pygame. 
+- I’m currently working with **Game development using Python and the library Pygame.** 
 - In the repositories you will find projects also in: HTML, CSS, Javascript and Construct.
 - 📫 How to reach me **ade.lourencojr@gmail.com**
 
